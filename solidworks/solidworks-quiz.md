@@ -464,3 +464,15 @@
 - [ ] collinear
 - [x] concentric
 - [ ] fix
+
+#### Q58. You want to share a SOLIDWORKS assembly with another SOLIDWORKS user so that user can edit it. What is the best way to do this?You want to share a SOLIDWORKS assembly with another SOLIDWORKS user so that user can edit it. What is the best way to do this?
+- [ ] Save the assembly as a .sldasm file and send the file to the user.Save the assembly as a .sldasm file and send the file to the user.
+- [x] Use Pack and Go to package and send all assembly files.Use Pack and Go to package and send all assembly files.
+- [ ] Save the assembly as a 3D PDF and select the Enable Editing option.Save the assembly as a 3D PDF and select the Enable Editing option.
+- [ ] Save the assembly as a single part (.sldprt file) to include all assembly contents. Save the assembly as a single part (.sldprt file) to include all assembly contents. 
+
+#### Q59. Which tool can create one or more curves in a sketch by projecting an edge, loop, face, curve, or external sketch contour; set of edges; or set of sketch curves onto the sketch plane?Which tool can create one or more curves in a sketch by projecting an edge, loop, face, curve, or external sketch contour; set of edges; or set of sketch curves onto the sketch plane?
+- [ ] Mirror EntitiesMirror Entities
+- [x] Convert EntitiesConvert Entities
+- [ ] Offset EntitiesOffset Entities
+- [ ] Offset on SurfaceOffset on Surface
